@@ -31,8 +31,8 @@
 		F67A77EA1B096E3400B70A87 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		F67A77EB1B096E3400B70A87 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		F67A77EC1B096E3400B70A87 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
-		F67A77F01B096FEF00B70A87 /* khindupur-3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "khindupur-3.txt"; path = "../../../../Downloads/khindupur-3.txt"; sourceTree = "<group>"; };
-		F67A77F11B09701800B70A87 /* Screen Shot 2015-05-17 at 5.54.09 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2015-05-17 at 5.54.09 PM.png"; path = "../../../Screen Shot 2015-05-17 at 5.54.09 PM.png"; sourceTree = "<group>"; };
+		F67A77F21B09713D00B70A87 /* Screen Shot 2015-05-17 at 5.54.09 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2015-05-17 at 5.54.09 PM.png"; sourceTree = "<group>"; };
+		F67A77F31B09714700B70A87 /* khindupur-3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "khindupur-3.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,9 +71,9 @@
 		F67A77E21B096E2200B70A87 /* ray tracing */ = {
 			isa = PBXGroup;
 			children = (
+				F67A77F31B09714700B70A87 /* khindupur-3.txt */,
+				F67A77F21B09713D00B70A87 /* Screen Shot 2015-05-17 at 5.54.09 PM.png */,
 				F67A77E31B096E2200B70A87 /* main.cpp */,
-				F67A77F11B09701800B70A87 /* Screen Shot 2015-05-17 at 5.54.09 PM.png */,
-				F67A77F01B096FEF00B70A87 /* khindupur-3.txt */,
 			);
 			path = "ray tracing";
 			sourceTree = "<group>";
